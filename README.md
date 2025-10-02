@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Welcome to (lumen) 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-(1.0.0)-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/cypherslopps" target="_blank">
+    <img alt="Twitter: cypherslopps" src="https://img.shields.io/twitter/follow/cypherslopps.svg?style=social" />
+  </a>
+</p>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> A mobile fintech app built with Expo (React Native). Core features include:
 
-## Get started
+### 🏠 [Homepage](A mobile fintech app built with Expo (React Native). Core features include:
 
-1. Install dependencies
+🔐 Secure user authentication (with encrypted storage & biometrics)
 
-   ```bash
-   npm install
-   ```
+💳 Wallet management & transaction history
 
-2. Start the app
+💸 Payments integration (e.g., Stripe/Paystack)
 
-   ```bash
-   npx expo start
-   ```
+📊 Real-time data syncing with React Query
 
-In the output, you'll find options to open the app in a
+⚡ State management using Redux Toolkit / Zustand
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+This project focuses on building a secure, scalable foundation for fintech applications while experimenting with modern React Native tooling.)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Install
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```sh
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Usage
 
-## Learn more
+```sh
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Author
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+👤 **Joseph Ibok (Soliddev)**
 
-## Join the community
+- Website: https://joseph-soliddev.vercel.app/
+- Twitter: [@cypherslopps](https://twitter.com/cypherslopps)
+- Github: [@soliddev434](https://github.com/soliddev434)
+- LinkedIn: [@joseph-ibok](https://linkedin.com/in/joseph-ibok)
 
-Join our community of developers creating universal apps.
+## Show your support
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Give a ⭐️ if this project helped you!
+
+---
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
