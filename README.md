@@ -23,6 +23,7 @@ This project explores building a **secure, scalable foundation** for fintech app
 ## 🛠 Tech Stack
 
 - **App:** Expo (React Native)
+- **Styling:** Nativewind
 - **State Management:** Zustand
 - **Data Fetching & Caching:** Axios
 - **Secure Storage:** Expo Secure Store, AsyncStorage
