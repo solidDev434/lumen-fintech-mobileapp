@@ -8,7 +8,7 @@
 
 > A mobile fintech app built with Expo (React Native). Core features include:
 
-### 🏠 [Homepage] (A mobile fintech app built with Expo (React Native). Core features include:
+### A mobile fintech app built with Expo (React Native). Core features include:
 
 🔐 Secure user authentication (with encrypted storage & biometrics)
 
